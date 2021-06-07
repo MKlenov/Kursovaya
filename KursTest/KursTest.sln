@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KursTest", "MihKursTest\KursTest.csproj", "{6B8C3D08-A929-40CD-AABA-6D959AAD739B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniTestKurs", "UniTestKurs\UniTestKurs.csproj", "{5CE67881-D69E-4872-8407-64CFB2863D3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B8C3D08-A929-40CD-AABA-6D959AAD739B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8C3D08-A929-40CD-AABA-6D959AAD739B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8C3D08-A929-40CD-AABA-6D959AAD739B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8C3D08-A929-40CD-AABA-6D959AAD739B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CE67881-D69E-4872-8407-64CFB2863D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE67881-D69E-4872-8407-64CFB2863D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE67881-D69E-4872-8407-64CFB2863D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE67881-D69E-4872-8407-64CFB2863D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99588A13-1551-4357-9155-77A4AA3425D8}
+	EndGlobalSection
+EndGlobal
